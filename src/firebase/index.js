@@ -10,12 +10,13 @@ import {
 
 // КОНФИГ У КАЖДОГО СВОЙ!!!!!
 const firebaseConfig = {
-  apiKey: "AIzaSyBZ-o46xZt2VHH-jf5cf0TCtpNGx6o-DSA",
-  authDomain: "todo-react-itstep.firebaseapp.com",
-  projectId: "todo-react-itstep",
-  storageBucket: "todo-react-itstep.appspot.com",
-  messagingSenderId: "170471085367",
-  appId: "1:170471085367:web:2349a96cee111758f136b2",
+  apiKey: "AIzaSyAroGZ9PCRoabCnZUCgTVHDu36LuyXgkXk",
+  authDomain: "new-prject-77418.firebaseapp.com",
+  projectId: "new-prject-77418",
+  storageBucket: "new-prject-77418.appspot.com",
+  messagingSenderId: "182984547143",
+  appId: "1:182984547143:web:75679cd3cfab9283a10a62",
+  measurementId: "G-PNJFVHXJ7Z"
 };
 
 const app = initializeApp(firebaseConfig);
